@@ -17,6 +17,8 @@ const Title = styled.div`
   width: 100%;
   height: 15%;
   justify-content: center;
+  margin-top: 20px;
+  font-size: 50px;
 `;
 
 const AboutBarWrapper = styled.div`
@@ -112,7 +114,7 @@ const AboutUs = () => {
   };
   return (
     <Wrapper>
-      <Title>GROUP NAME</Title>
+      <Title>GOOFY GOOBERS</Title>
       {MemberGrid()}
     </Wrapper>
   );
