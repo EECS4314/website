@@ -10,8 +10,8 @@ const Main = styled.div`
   margin: 0px;
 `;
 
-
 const Part3 = () => {
+  return (
     <Main>
       <a
         href="https://docs.google.com/presentation/d/1rfosUjGpQSAbKU2REbUL2CJqpPr2ebaQbxUhA8y_L9c/edit?usp=sharing"
@@ -20,6 +20,7 @@ const Part3 = () => {
         Presentation
       </a>
     </Main>
+  );
 };
 
 export default Part3;
