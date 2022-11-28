@@ -19,6 +19,12 @@ const Part3 = () => {
       >
         Presentation
       </a>
+      <a
+        href="https://docs.google.com/document/d/1HQaXx8dyIUwy_VIbocgd7iI1uBicCUGJ8aW7UD9J8hQ/edit?usp=sharing"
+        target="_blank"
+      >
+        Report
+      </a>
     </Main>
   );
 };
