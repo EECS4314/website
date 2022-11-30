@@ -14,7 +14,7 @@ const Part4 = () => {
     return (
         <Main>
           <a
-            href="https://docs.google.com/presentation/d/1rfosUjGpQSAbKU2REbUL2CJqpPr2ebaQbxUhA8y_L9c/edit?usp=sharing"
+            href="https://docs.google.com/presentation/d/1cuRtY7NdN3fyEnF9KmpgapRhx9nsix_IBff30EbWDE8/edit?usp=sharing"
             target="_blank"
           >
             Presentation
