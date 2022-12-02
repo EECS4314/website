@@ -19,12 +19,12 @@ const Part4 = () => {
           >
             Presentation
           </a>
-          {/* {<a
-            href="https://docs.google.com/document/d/1HQaXx8dyIUwy_VIbocgd7iI1uBicCUGJ8aW7UD9J8hQ/edit?usp=sharing"
+          <a
+            href="https://docs.google.com/document/d/1jB2M-jKIVpItrkt_IidOMmtYUdTFWsxuG7n-1ZS0Jag/edit?usp=sharing"
             target="_blank"
           >
             Report
-          </a>} */}
+          </a>
         </Main>
       );
 };
