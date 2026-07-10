@@ -114,7 +114,7 @@ const AboutUs = () => {
   };
   return (
     <Wrapper>
-      <Title>GOOFY GOOBERS</Title>
+      <Title>GOOFY GOOBERS 🤪</Title>
       {MemberGrid()}
     </Wrapper>
   );
